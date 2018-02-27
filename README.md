@@ -1,2 +1,10 @@
 # remove-internal
-Remove `@internal` declarations from TypeScript .d.ts files
+
+Removes `@internal` declarations from TypeScript .d.ts files
+
+# Usage (command-line)
+
+
+
+# Usage (API)
+

@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the baseline files: simplest.d.ts 1`] = `
+"declare function fn1(): void;
+"
+`;

@@ -1,0 +1,7 @@
+node_modules/
+
+# Need configurable Jest snapshot folders...
+# https://github.com/facebook/jest/issues/1650
+lib/**/*.js
+lib/**/*.d.ts
+lib/**/*.map

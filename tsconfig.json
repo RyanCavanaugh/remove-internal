@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "lib": [
+      "es2016"
+    ],
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "strict": true
+  },
+  "files": [
+    "src/cli.ts",
+    "src/index.ts",
+    "src/tests/tests.ts"
+  ]
+}
