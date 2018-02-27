@@ -1,3 +1,4 @@
+.vscode/
 node_modules/
 
 # Need configurable Jest snapshot folders...
